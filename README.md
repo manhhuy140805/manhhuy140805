@@ -28,7 +28,7 @@ const manhhuy = {
   name: "Trần Đình Mạnh Huy",
   location: "Vietnam 🇻🇳",
   role: "Full-Stack Developer",
-  education: "Computer Science Student",
+  education: "Computer Science undergraduate",
   
   currentFocus: [
     "Building scalable web applications",
@@ -41,7 +41,6 @@ const manhhuy = {
     "Clean Code & Best Practices",
     "Microservices Architecture",
     "Cloud Computing",
-    "Open Source Contribution"
   ],
   
   lifePhilosophy: "Code with passion, learn continuously, share knowledge 🚀"
