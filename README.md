@@ -6,19 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Mobile+Developer;Passionate+about+Clean+Code+%26+Architecture;Building+Scalable+%26+Efficient+Solutions" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/manhhuy140805">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=manhhuy140805&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ---
 
 ## About Me
@@ -125,6 +112,7 @@ const manhhuy = {
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=I'm+always+open+to+collaborating+on+innovative+projects!;Let's+discuss+new+technologies+and+ideas!;Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
+  <br><br>
   <a href="https://portfolio-mah-fe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
