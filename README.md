@@ -26,7 +26,7 @@
 ```typescript
 const manhhuy = {
   name: "Trần Đình Mạnh Huy",
-  location: "Vietnam 🇻🇳",
+  location: "Vietnam",
   role: "Full-Stack Developer",
   education: "Computer Science undergraduate",
   
@@ -63,57 +63,25 @@ const manhhuy = {
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
 </div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
 ### Backend Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,java,spring,cs,dotnet" alt="Backend Skills" />
 </div>
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ### Mobile Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" alt="Mobile Skills" />
 </div>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
 ### Database & Storage
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase" alt="Database Skills" />
 </div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
 ### Tools & Technologies
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,androidstudio" alt="Tools" />
 </div>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -152,30 +120,13 @@ const manhhuy = {
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhhuy140805&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manhhuy140805&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ### Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhhuy140805&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-### Contribution Snake
-<!-- 
-To enable the snake animation:
-1. Create a new repository named "manhhuy140805" (same as your GitHub username)
-2. Copy the .github/workflows/snake.yml file to that repository
-3. Enable GitHub Actions in repository settings
-4. The snake will be generated automatically every day
-5. Uncomment the image below after the first successful run
--->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manhhuy140805/manhhuy140805/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## Education & Certifications
 
@@ -207,7 +158,7 @@ DevOps & CI/CD         ███████████████░░░░
   
 I'm always interested in collaborating on innovative projects and discussing new technologies!
 
-**Email:** your.email@gmail.com  
+**Email:** trandinhmanhhuy05@gmail.com  
 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
 **Facebook:** [Your Facebook](https://facebook.com/yourprofile)  
