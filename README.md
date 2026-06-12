@@ -121,37 +121,6 @@ const manhhuy = {
 </div>
 
 
-### Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manhhuy140805&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-
-
-## Education & Certifications
-
-- **Bachelor of Computer Science** - [Your University Name]
-- **Certifications:**
-  - Full-Stack Web Development
-  - Mobile App Development
-  - Database Design & Management
-  - Cloud Computing Fundamentals
-
----
-
-## Skills Breakdown
-
-```text
-Backend Development    ████████████████████░   95%
-Frontend Development   ███████████████████░░   90%
-Mobile Development     ██████████████████░░░   85%
-Database Design        ███████████████████░░   90%
-System Architecture    ████████████████░░░░░   80%
-DevOps & CI/CD         ███████████████░░░░░░   75%
-```
-
----
-
 ## Let's Connect!
 
 <div align="center">
