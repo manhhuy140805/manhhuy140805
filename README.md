@@ -121,23 +121,28 @@ const manhhuy = {
 </div>
 
 
-## Let's Connect!
+## 📬 Get In Touch
 
 <div align="center">
-  
-I'm always interested in collaborating on innovative projects and discussing new technologies!
-
-**Email:** trandinhmanhhuy05@gmail.com  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-**Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-**Facebook:** [Your Facebook](https://facebook.com/yourprofile)  
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=I'm+always+open+to+collaborating+on+innovative+projects!;Let's+discuss+new+technologies+and+ideas!;Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
+  <a href="https://portfolio-mah-fe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+  <a href="mailto:trandinhmanhhuy05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/manh.huy.369515" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <i>"I am a 3rd-year student passionate about web development. I focus on building modern UI/UX experiences, and continuously learning new technologies to hone my skills."</i>
 </div>
 
 <div align="center">
