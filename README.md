@@ -10,36 +10,11 @@
 
 ## About Me
 
-```typescript
-const manhhuy = {
-  name: "Trần Đình Mạnh Huy",
-  location: "Vietnam",
-  role: "Full-Stack Developer",
-  education: "Computer Science undergraduate",
-  
-  currentFocus: [
-    "Building scalable web applications",
-    "Mobile app development",
-    "System architecture & design patterns",
-    "DevOps & CI/CD practices"
-  ],
-  
-  interests: [
-    "Clean Code & Best Practices",
-    "Microservices Architecture",
-    "Cloud Computing",
-  ],
-  
-  lifePhilosophy: "Code with passion, learn continuously, share knowledge 🚀"
-};
-```
-
 ### Current Status
 - Working on: **Full-stack web applications with Next.js & NestJS**
 - Learning: **System Design, Microservices, Cloud Architecture**
 - Looking to collaborate on: **Open source projects & innovative ideas**
 - Ask me about: **Web Development, Mobile Development, Database Design**
-- Fun fact: **I debug with console.log() and I'm not ashamed! **
 
 ---
 
